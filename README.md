@@ -6,3 +6,10 @@ It currently requires the official minecraft launcher to play, though I am worki
 ***REQUIRES A PREMIUM MINECRAFT JAVA EDITION ACCOUNT!!***
 
 ***WILL NOT WORK WITH CRACKED ACCOUNTS***
+## Installation
+
+Copy the MiteClient folder of the MiteClient zip (download from releases page) into the "versions" folder in your .minecraft folder.
+
+To run, create a new installation on the official minecraft launcher and set the version to "release MiteClient"
+
+After that, click play
