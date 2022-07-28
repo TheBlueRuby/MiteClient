@@ -9,7 +9,8 @@
 
 ## Bugs
 
-Joining a server with TargetHUD active sometimes will crash the game (maybe because of too many entities targeted?)
+- Joining a server with TargetHUD active sometimes will crash the game (maybe because of too many entities targeted?)
+- Resource pack manager crashes game on opening it (NullPointerException)
 
 ## Other
 
