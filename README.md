@@ -1,5 +1,5 @@
 # Mite Client for Minecraft Java Edition
-This is a work-in-progress minecraft client that I am using to learn java, inspired by Lunar and LabyMod. 
+This is a work-in-progress Minecraft pvp client that I am using to learn java, inspired by Lunar and LabyMod. 
 
 It currently requires the official minecraft launcher to play, though I am working on a custom one.
 
