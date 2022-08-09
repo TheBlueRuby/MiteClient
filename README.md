@@ -19,3 +19,11 @@ After that, click play
 Copy MiteClient.jar from the latest MiteClient.zip or the separate download (1.0.2-1 and newer)
 
 Place it in the MiteClient folder in the .minecraft\versions folder. Overwrite any files as they will be older versions
+
+# CREDITS
+- quickdaffy for initial setup, GUI, targetHUD and keystrokes
+- Eric Golde for CPS counter
+- superblaurebee27 for obfuscator
+- MCP team for MCP
+- Mojang for Minecraft
+- Optifine team for Optifine
