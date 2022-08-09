@@ -23,7 +23,7 @@ Place it in the MiteClient folder in the .minecraft\versions folder. Overwrite a
 # CREDITS
 - quickdaffy for initial setup, GUI, targetHUD and keystrokes
 - Eric Golde for CPS counter
-- superblaurebee27 for obfuscator
+- superblaubeere27 for obfuscator
 - MCP team for MCP
 - Mojang for Minecraft
 - Optifine team for Optifine
