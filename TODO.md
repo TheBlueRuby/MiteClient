@@ -5,7 +5,7 @@
 - Add Crosshair Mod
 - Possibly add Replay Mod
 - Add lunar-like armor HUD
-- Add AutoGG
+- Add forge mod support
 
 ## Bugs
 
@@ -13,4 +13,5 @@
 - Resource pack manager crashes game on opening it (NullPointerException)
 
 ## Other
-
+- Test AutoGG
+- Check MiteClient tag positioning
