@@ -3,6 +3,7 @@
 ## Features
 
 - Add Crosshair Mod
+  - Dev build hides default crosshair but doesn't show custom one
 - Possibly add Replay Mod
 - Add lunar-like armor HUD
 - Add forge mod support
