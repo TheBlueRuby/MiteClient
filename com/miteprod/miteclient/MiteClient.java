@@ -11,6 +11,7 @@ import com.miteprod.miteclient.hud.HUDConfigScreen;
 import com.miteprod.miteclient.hud.mod.HudManager;
 import com.miteprod.miteclient.hud.mod.impl.CPSmod;
 import com.miteprod.miteclient.mod.ModManager;
+//FOR TESTING ONLY NOT FOR ACTUAL USE 
 //import com.miteprod.miteclient.util.SessionChanger;
 import com.miteprod.miteclient.util.config.Config;
 
