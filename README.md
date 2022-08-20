@@ -9,6 +9,7 @@ Requires Official Launcher
 
 ## Jar Installer
 Download the installer from the seperate Github repo [here](https://github.com/TheBlueRuby/MiteClient-Installer)
+
 Run MiteClient-Installer.jar using a Java Runtime with JavaFX
 
 ## Manual Installation
