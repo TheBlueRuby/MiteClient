@@ -1,12 +1,19 @@
 # Mite Client for Minecraft Java Edition
 This is a work-in-progress Minecraft pvp client that I am using to learn java, inspired by Lunar and LabyMod. 
 
-It currently requires the official minecraft launcher to play, though I am working on a custom one.
+Requires Official Launcher
 
 ***REQUIRES A PREMIUM MINECRAFT JAVA EDITION ACCOUNT!!***
 
 ***WILL NOT WORK WITH CRACKED ACCOUNTS***
-## First Time Installation
+
+## Jar Installer
+Download the installer from the seperate Github repo [here](https://github.com/TheBlueRuby/MiteClient-Installer)
+Run MiteClient-Installer.jar using a Java Runtime with JavaFX
+
+## Manual Installation
+
+### First Time Installation
 
 Copy the MiteClient folder of the latest MiteClient zip (download from releases page) into the "versions" folder in your .minecraft folder.
 
@@ -14,7 +21,7 @@ To run, create a new installation on the official minecraft launcher and set the
 
 After that, click play
 
-## Updating
+### Updating
 
 Copy MiteClient.jar from the latest MiteClient.zip or the separate download (1.0.2-1 and newer)
 
