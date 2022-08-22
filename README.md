@@ -7,10 +7,16 @@ Requires Official Launcher
 
 ***WILL NOT WORK WITH CRACKED ACCOUNTS***
 
-## Jar Installer
-Download the installer from the seperate Github repo [here](https://github.com/TheBlueRuby/MiteClient-Installer)
+## Electron-based Installer
+Work-In-Progress, will be put on https://github.com/TheBlueRuby/MiteClient-Installer-Electron
 
-Run MiteClient-Installer.jar using a Java Runtime with JavaFX
+## Jar Installer
+
+*Currently Bugged*
+
+Download the installer from the seperate Github repo [here](https://github.com/TheBlueRuby/MiteClient-Installer-JavaFX)
+
+Run MiteClient-Installer.jar using a Java 8 Runtime with JavaFX
 
 ## Manual Installation
 
