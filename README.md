@@ -1,5 +1,5 @@
 # Mite Client for Minecraft Java Edition
-This is a work-in-progress Minecraft pvp client that I am using to learn java, inspired by Lunar and LabyMod. 
+This is a work-in-progress Minecraft client that I am using to learn Java, inspired by Lunar and LabyMod. 
 
 Requires Official Launcher
 
@@ -7,16 +7,17 @@ Requires Official Launcher
 
 ***WILL NOT WORK WITH CRACKED ACCOUNTS***
 
-## Electron-based Installer
-Work-In-Progress, will eventually be put on https://github.com/TheBlueRuby/MiteClient-Installer-Electron
-
 ## Jar Installer
 
-Download the installer from the seperate Github repo [here](https://github.com/TheBlueRuby/MiteClient-Installer-JavaFX)
+Download the installer from its repo [here](https://github.com/TheBlueRuby/MiteClient-Installer-JavaFX)
 
 Run MiteClient-Installer.jar using a Java 8 Runtime with JavaFX
 
 Tested to work on JRE 1.8.0_271
+
+
+## Electron-based Installer
+Work-In-Progress, will eventually be put on https://github.com/TheBlueRuby/MiteClient-Installer-Electron
 
 ## Manual Installation
 
